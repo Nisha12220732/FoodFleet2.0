@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="APIGateway/APIGateway.csproj" Id="9c39bba2-a368-413f-96bb-01c56b0b891c" />
+  <Project Path="OrderService/OrderService.csproj" Id="8fa80809-9eed-4b1c-b74f-91662cbc62a2" />
+  <Project Path="RestaurantService/RestaurantService.csproj" Id="d2cb40e6-fff5-46fc-a710-7d237d2d1314" />
+  <Project Path="UserService.Tests/UserService.Tests.csproj" Id="2a43924e-3daa-4c5b-b023-560897137926" />
+  <Project Path="UserService/UserService.csproj" Id="773c1cc6-62fb-451e-9e2e-563be522c2b9" />
+</Solution>

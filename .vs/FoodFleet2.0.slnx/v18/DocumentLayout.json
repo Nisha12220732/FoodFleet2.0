@@ -1,0 +1,595 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\AccentureTraining\\FoodFleet2.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{773C1CC6-62FB-451E-9E2E-563BE522C2B9}|UserService\\UserService.csproj|e:\\accenturetraining\\foodfleet2.0\\userservice\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773C1CC6-62FB-451E-9E2E-563BE522C2B9}|UserService\\UserService.csproj|solutionrelative:userservice\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FA80809-9EED-4B1C-B74F-91662CBC62A2}|OrderService\\OrderService.csproj|e:\\accenturetraining\\foodfleet2.0\\orderservice\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FA80809-9EED-4B1C-B74F-91662CBC62A2}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CB40E6-FFF5-46FC-A710-7D237D2D1314}|RestaurantService\\RestaurantService.csproj|e:\\accenturetraining\\foodfleet2.0\\restaurantservice\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CB40E6-FFF5-46FC-A710-7D237D2D1314}|RestaurantService\\RestaurantService.csproj|solutionrelative:restaurantservice\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FA80809-9EED-4B1C-B74F-91662CBC62A2}|OrderService\\OrderService.csproj|e:\\accenturetraining\\foodfleet2.0\\orderservice\\orderservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{8FA80809-9EED-4B1C-B74F-91662CBC62A2}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\orderservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CB40E6-FFF5-46FC-A710-7D237D2D1314}|RestaurantService\\RestaurantService.csproj|e:\\accenturetraining\\foodfleet2.0\\restaurantservice\\restaurantservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D2CB40E6-FFF5-46FC-A710-7D237D2D1314}|RestaurantService\\RestaurantService.csproj|solutionrelative:restaurantservice\\restaurantservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CB40E6-FFF5-46FC-A710-7D237D2D1314}|RestaurantService\\RestaurantService.csproj|e:\\accenturetraining\\foodfleet2.0\\restaurantservice\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CB40E6-FFF5-46FC-A710-7D237D2D1314}|RestaurantService\\RestaurantService.csproj|solutionrelative:restaurantservice\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CB40E6-FFF5-46FC-A710-7D237D2D1314}|RestaurantService\\RestaurantService.csproj|e:\\accenturetraining\\foodfleet2.0\\restaurantservice\\controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CB40E6-FFF5-46FC-A710-7D237D2D1314}|RestaurantService\\RestaurantService.csproj|solutionrelative:restaurantservice\\controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A43924E-3DAA-4C5B-B023-560897137926}|UserService.Tests\\UserService.Tests.csproj|e:\\accenturetraining\\foodfleet2.0\\userservice.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A43924E-3DAA-4C5B-B023-560897137926}|UserService.Tests\\UserService.Tests.csproj|solutionrelative:userservice.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A43924E-3DAA-4C5B-B023-560897137926}|UserService.Tests\\UserService.Tests.csproj|e:\\accenturetraining\\foodfleet2.0\\userservice.tests\\userservice.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2A43924E-3DAA-4C5B-B023-560897137926}|UserService.Tests\\UserService.Tests.csproj|solutionrelative:userservice.tests\\userservice.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773C1CC6-62FB-451E-9E2E-563BE522C2B9}|UserService\\UserService.csproj|e:\\accenturetraining\\foodfleet2.0\\userservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{773C1CC6-62FB-451E-9E2E-563BE522C2B9}|UserService\\UserService.csproj|solutionrelative:userservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773C1CC6-62FB-451E-9E2E-563BE522C2B9}|UserService\\UserService.csproj|e:\\accenturetraining\\foodfleet2.0\\userservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773C1CC6-62FB-451E-9E2E-563BE522C2B9}|UserService\\UserService.csproj|solutionrelative:userservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773C1CC6-62FB-451E-9E2E-563BE522C2B9}|UserService\\UserService.csproj|e:\\accenturetraining\\foodfleet2.0\\userservice\\data\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773C1CC6-62FB-451E-9E2E-563BE522C2B9}|UserService\\UserService.csproj|solutionrelative:userservice\\data\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773C1CC6-62FB-451E-9E2E-563BE522C2B9}|UserService\\UserService.csproj|e:\\accenturetraining\\foodfleet2.0\\userservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773C1CC6-62FB-451E-9E2E-563BE522C2B9}|UserService\\UserService.csproj|solutionrelative:userservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C39BBA2-A368-413F-96BB-01C56B0B891C}|APIGateway\\APIGateway.csproj|e:\\accenturetraining\\foodfleet2.0\\apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C39BBA2-A368-413F-96BB-01C56B0B891C}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C39BBA2-A368-413F-96BB-01C56B0B891C}|APIGateway\\APIGateway.csproj|e:\\accenturetraining\\foodfleet2.0\\apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9C39BBA2-A368-413F-96BB-01C56B0B891C}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773C1CC6-62FB-451E-9E2E-563BE522C2B9}|UserService\\UserService.csproj|e:\\accenturetraining\\foodfleet2.0\\userservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{773C1CC6-62FB-451E-9E2E-563BE522C2B9}|UserService\\UserService.csproj|solutionrelative:userservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FA80809-9EED-4B1C-B74F-91662CBC62A2}|OrderService\\OrderService.csproj|e:\\accenturetraining\\foodfleet2.0\\orderservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8FA80809-9EED-4B1C-B74F-91662CBC62A2}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C39BBA2-A368-413F-96BB-01C56B0B891C}|APIGateway\\APIGateway.csproj|e:\\accenturetraining\\foodfleet2.0\\apigateway\\apigateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9C39BBA2-A368-413F-96BB-01C56B0B891C}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\apigateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FA80809-9EED-4B1C-B74F-91662CBC62A2}|OrderService\\OrderService.csproj|e:\\accenturetraining\\foodfleet2.0\\orderservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FA80809-9EED-4B1C-B74F-91662CBC62A2}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CB40E6-FFF5-46FC-A710-7D237D2D1314}|RestaurantService\\RestaurantService.csproj|e:\\accenturetraining\\foodfleet2.0\\restaurantservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CB40E6-FFF5-46FC-A710-7D237D2D1314}|RestaurantService\\RestaurantService.csproj|solutionrelative:restaurantservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FA80809-9EED-4B1C-B74F-91662CBC62A2}|OrderService\\OrderService.csproj|e:\\accenturetraining\\foodfleet2.0\\orderservice\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FA80809-9EED-4B1C-B74F-91662CBC62A2}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CB40E6-FFF5-46FC-A710-7D237D2D1314}|RestaurantService\\RestaurantService.csproj|e:\\accenturetraining\\foodfleet2.0\\restaurantservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D2CB40E6-FFF5-46FC-A710-7D237D2D1314}|RestaurantService\\RestaurantService.csproj|solutionrelative:restaurantservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CB40E6-FFF5-46FC-A710-7D237D2D1314}|RestaurantService\\RestaurantService.csproj|e:\\accenturetraining\\foodfleet2.0\\restaurantservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D2CB40E6-FFF5-46FC-A710-7D237D2D1314}|RestaurantService\\RestaurantService.csproj|solutionrelative:restaurantservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CB40E6-FFF5-46FC-A710-7D237D2D1314}|RestaurantService\\RestaurantService.csproj|e:\\accenturetraining\\foodfleet2.0\\restaurantservice\\restaurantservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D2CB40E6-FFF5-46FC-A710-7D237D2D1314}|RestaurantService\\RestaurantService.csproj|solutionrelative:restaurantservice\\restaurantservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FA80809-9EED-4B1C-B74F-91662CBC62A2}|OrderService\\OrderService.csproj|e:\\accenturetraining\\foodfleet2.0\\orderservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8FA80809-9EED-4B1C-B74F-91662CBC62A2}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FA80809-9EED-4B1C-B74F-91662CBC62A2}|OrderService\\OrderService.csproj|e:\\accenturetraining\\foodfleet2.0\\orderservice\\data\\orderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FA80809-9EED-4B1C-B74F-91662CBC62A2}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\data\\orderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FA80809-9EED-4B1C-B74F-91662CBC62A2}|OrderService\\OrderService.csproj|e:\\accenturetraining\\foodfleet2.0\\orderservice\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FA80809-9EED-4B1C-B74F-91662CBC62A2}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FA80809-9EED-4B1C-B74F-91662CBC62A2}|OrderService\\OrderService.csproj|e:\\accenturetraining\\foodfleet2.0\\orderservice\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FA80809-9EED-4B1C-B74F-91662CBC62A2}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CB40E6-FFF5-46FC-A710-7D237D2D1314}|RestaurantService\\RestaurantService.csproj|e:\\accenturetraining\\foodfleet2.0\\restaurantservice\\data\\restaurantdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CB40E6-FFF5-46FC-A710-7D237D2D1314}|RestaurantService\\RestaurantService.csproj|solutionrelative:restaurantservice\\data\\restaurantdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CB40E6-FFF5-46FC-A710-7D237D2D1314}|RestaurantService\\RestaurantService.csproj|e:\\accenturetraining\\foodfleet2.0\\restaurantservice\\models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CB40E6-FFF5-46FC-A710-7D237D2D1314}|RestaurantService\\RestaurantService.csproj|solutionrelative:restaurantservice\\models\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773C1CC6-62FB-451E-9E2E-563BE522C2B9}|UserService\\UserService.csproj|e:\\accenturetraining\\foodfleet2.0\\userservice\\migrations\\20260821080441_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{773C1CC6-62FB-451E-9E2E-563BE522C2B9}|UserService\\UserService.csproj|solutionrelative:userservice\\migrations\\20260821080441_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{773C1CC6-62FB-451E-9E2E-563BE522C2B9}|UserService\\UserService.csproj|e:\\accenturetraining\\foodfleet2.0\\userservice\\userservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{773C1CC6-62FB-451E-9E2E-563BE522C2B9}|UserService\\UserService.csproj|solutionrelative:userservice\\userservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FA80809-9EED-4B1C-B74F-91662CBC62A2}|OrderService\\OrderService.csproj|e:\\accenturetraining\\foodfleet2.0\\orderservice\\orderservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{8FA80809-9EED-4B1C-B74F-91662CBC62A2}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\orderservice.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FA80809-9EED-4B1C-B74F-91662CBC62A2}|OrderService\\OrderService.csproj|e:\\accenturetraining\\foodfleet2.0\\orderservice\\migrations\\20260821202057_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FA80809-9EED-4B1C-B74F-91662CBC62A2}|OrderService\\OrderService.csproj|solutionrelative:orderservice\\migrations\\20260821202057_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CB40E6-FFF5-46FC-A710-7D237D2D1314}|RestaurantService\\RestaurantService.csproj|e:\\accenturetraining\\foodfleet2.0\\restaurantservice\\migrations\\20260821193056_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CB40E6-FFF5-46FC-A710-7D237D2D1314}|RestaurantService\\RestaurantService.csproj|solutionrelative:restaurantservice\\migrations\\20260821193056_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 28,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\AccentureTraining\\FoodFleet2.0\\UserService\\Models\\User.cs",
+              "RelativeDocumentMoniker": "UserService\\Models\\User.cs",
+              "ToolTip": "E:\\AccentureTraining\\FoodFleet2.0\\UserService\\Models\\User.cs",
+              "RelativeToolTip": "UserService\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T22:15:59.982Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderService.http",
+              "DocumentMoniker": "E:\\AccentureTraining\\FoodFleet2.0\\OrderService\\OrderService.http",
+              "RelativeDocumentMoniker": "OrderService\\OrderService.http",
+              "ToolTip": "E:\\AccentureTraining\\FoodFleet2.0\\OrderService\\OrderService.http",
+              "RelativeToolTip": "OrderService\\OrderService.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-08-22T10:34:59.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RestaurantService.http",
+              "DocumentMoniker": "E:\\AccentureTraining\\FoodFleet2.0\\RestaurantService\\RestaurantService.http",
+              "RelativeDocumentMoniker": "RestaurantService\\RestaurantService.http",
+              "ToolTip": "E:\\AccentureTraining\\FoodFleet2.0\\RestaurantService\\RestaurantService.http",
+              "RelativeToolTip": "RestaurantService\\RestaurantService.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-08-22T10:34:47.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserService.Tests",
+              "DocumentMoniker": "E:\\AccentureTraining\\FoodFleet2.0\\UserService.Tests\\UserService.Tests.csproj",
+              "RelativeDocumentMoniker": "UserService.Tests\\UserService.Tests.csproj",
+              "ToolTip": "E:\\AccentureTraining\\FoodFleet2.0\\UserService.Tests\\UserService.Tests.csproj",
+              "RelativeToolTip": "UserService.Tests\\UserService.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-22T10:16:50.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\AccentureTraining\\FoodFleet2.0\\APIGateway\\Program.cs",
+              "RelativeDocumentMoniker": "APIGateway\\Program.cs",
+              "ToolTip": "E:\\AccentureTraining\\FoodFleet2.0\\APIGateway\\Program.cs",
+              "RelativeToolTip": "APIGateway\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T04:10:46.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\AccentureTraining\\FoodFleet2.0\\UserService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "UserService\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\AccentureTraining\\FoodFleet2.0\\UserService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "UserService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-22T04:08:06.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\AccentureTraining\\FoodFleet2.0\\OrderService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "OrderService\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\AccentureTraining\\FoodFleet2.0\\OrderService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "OrderService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-22T04:07:10.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ocelot.json",
+              "DocumentMoniker": "E:\\AccentureTraining\\FoodFleet2.0\\APIGateway\\ocelot.json",
+              "RelativeDocumentMoniker": "APIGateway\\ocelot.json",
+              "ToolTip": "E:\\AccentureTraining\\FoodFleet2.0\\APIGateway\\ocelot.json",
+              "RelativeToolTip": "APIGateway\\ocelot.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-22T04:05:39.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "APIGateway.csproj",
+              "DocumentMoniker": "E:\\AccentureTraining\\FoodFleet2.0\\APIGateway\\APIGateway.csproj",
+              "RelativeDocumentMoniker": "APIGateway\\APIGateway.csproj",
+              "ToolTip": "E:\\AccentureTraining\\FoodFleet2.0\\APIGateway\\APIGateway.csproj",
+              "RelativeToolTip": "APIGateway\\APIGateway.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-22T04:04:11.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "E:\\AccentureTraining\\FoodFleet2.0\\OrderService\\Models\\MenuItem.cs",
+              "RelativeDocumentMoniker": "OrderService\\Models\\MenuItem.cs",
+              "ToolTip": "E:\\AccentureTraining\\FoodFleet2.0\\OrderService\\Models\\MenuItem.cs",
+              "RelativeToolTip": "OrderService\\Models\\MenuItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T03:22:17.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "E:\\AccentureTraining\\FoodFleet2.0\\OrderService\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "OrderService\\Controllers\\OrderController.cs",
+              "ToolTip": "E:\\AccentureTraining\\FoodFleet2.0\\OrderService\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "OrderService\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowCEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T21:12:51.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\AccentureTraining\\FoodFleet2.0\\RestaurantService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "RestaurantService\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\AccentureTraining\\FoodFleet2.0\\RestaurantService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "RestaurantService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-21T21:10:54.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RestaurantService.csproj",
+              "DocumentMoniker": "E:\\AccentureTraining\\FoodFleet2.0\\RestaurantService\\RestaurantService.csproj",
+              "RelativeDocumentMoniker": "RestaurantService\\RestaurantService.csproj",
+              "ToolTip": "E:\\AccentureTraining\\FoodFleet2.0\\RestaurantService\\RestaurantService.csproj",
+              "RelativeToolTip": "RestaurantService\\RestaurantService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-21T21:10:27.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20260821202057_InitialCreate.cs",
+              "DocumentMoniker": "E:\\AccentureTraining\\FoodFleet2.0\\OrderService\\Migrations\\20260821202057_InitialCreate.cs",
+              "RelativeDocumentMoniker": "OrderService\\Migrations\\20260821202057_InitialCreate.cs",
+              "ToolTip": "E:\\AccentureTraining\\FoodFleet2.0\\OrderService\\Migrations\\20260821202057_InitialCreate.cs",
+              "RelativeToolTip": "OrderService\\Migrations\\20260821202057_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T20:20:57.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\AccentureTraining\\FoodFleet2.0\\OrderService\\appsettings.json",
+              "RelativeDocumentMoniker": "OrderService\\appsettings.json",
+              "ToolTip": "E:\\AccentureTraining\\FoodFleet2.0\\OrderService\\appsettings.json",
+              "RelativeToolTip": "OrderService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-21T20:18:56.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\AccentureTraining\\FoodFleet2.0\\OrderService\\Program.cs",
+              "RelativeDocumentMoniker": "OrderService\\Program.cs",
+              "ToolTip": "E:\\AccentureTraining\\FoodFleet2.0\\OrderService\\Program.cs",
+              "RelativeToolTip": "OrderService\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T20:17:21.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "OrderDbContext.cs",
+              "DocumentMoniker": "E:\\AccentureTraining\\FoodFleet2.0\\OrderService\\Data\\OrderDbContext.cs",
+              "RelativeDocumentMoniker": "OrderService\\Data\\OrderDbContext.cs",
+              "ToolTip": "E:\\AccentureTraining\\FoodFleet2.0\\OrderService\\Data\\OrderDbContext.cs",
+              "RelativeToolTip": "OrderService\\Data\\OrderDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T20:16:14.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "E:\\AccentureTraining\\FoodFleet2.0\\OrderService\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "OrderService\\Models\\OrderItem.cs",
+              "ToolTip": "E:\\AccentureTraining\\FoodFleet2.0\\OrderService\\Models\\OrderItem.cs",
+              "RelativeToolTip": "OrderService\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T20:06:10.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\AccentureTraining\\FoodFleet2.0\\OrderService\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "OrderService\\Models\\Order.cs",
+              "ToolTip": "E:\\AccentureTraining\\FoodFleet2.0\\OrderService\\Models\\Order.cs",
+              "RelativeToolTip": "OrderService\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T20:05:05.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "E:\\AccentureTraining\\FoodFleet2.0\\RestaurantService\\Controllers\\MenuController.cs",
+              "RelativeDocumentMoniker": "RestaurantService\\Controllers\\MenuController.cs",
+              "ToolTip": "E:\\AccentureTraining\\FoodFleet2.0\\RestaurantService\\Controllers\\MenuController.cs",
+              "RelativeToolTip": "RestaurantService\\Controllers\\MenuController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T19:37:37.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RestaurantController.cs",
+              "DocumentMoniker": "E:\\AccentureTraining\\FoodFleet2.0\\RestaurantService\\Controllers\\RestaurantController.cs",
+              "RelativeDocumentMoniker": "RestaurantService\\Controllers\\RestaurantController.cs",
+              "ToolTip": "E:\\AccentureTraining\\FoodFleet2.0\\RestaurantService\\Controllers\\RestaurantController.cs",
+              "RelativeToolTip": "RestaurantService\\Controllers\\RestaurantController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T19:34:52.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20260821193056_InitialCreate.cs",
+              "DocumentMoniker": "E:\\AccentureTraining\\FoodFleet2.0\\RestaurantService\\Migrations\\20260821193056_InitialCreate.cs",
+              "RelativeDocumentMoniker": "RestaurantService\\Migrations\\20260821193056_InitialCreate.cs",
+              "ToolTip": "E:\\AccentureTraining\\FoodFleet2.0\\RestaurantService\\Migrations\\20260821193056_InitialCreate.cs",
+              "RelativeToolTip": "RestaurantService\\Migrations\\20260821193056_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T19:30:57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\AccentureTraining\\FoodFleet2.0\\RestaurantService\\appsettings.json",
+              "RelativeDocumentMoniker": "RestaurantService\\appsettings.json",
+              "ToolTip": "E:\\AccentureTraining\\FoodFleet2.0\\RestaurantService\\appsettings.json",
+              "RelativeToolTip": "RestaurantService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-21T18:19:33.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\AccentureTraining\\FoodFleet2.0\\RestaurantService\\Program.cs",
+              "RelativeDocumentMoniker": "RestaurantService\\Program.cs",
+              "ToolTip": "E:\\AccentureTraining\\FoodFleet2.0\\RestaurantService\\Program.cs",
+              "RelativeToolTip": "RestaurantService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T18:18:25.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RestaurantDbcontext.cs",
+              "DocumentMoniker": "E:\\AccentureTraining\\FoodFleet2.0\\RestaurantService\\Data\\RestaurantDbcontext.cs",
+              "RelativeDocumentMoniker": "RestaurantService\\Data\\RestaurantDbcontext.cs",
+              "ToolTip": "E:\\AccentureTraining\\FoodFleet2.0\\RestaurantService\\Data\\RestaurantDbcontext.cs",
+              "RelativeToolTip": "RestaurantService\\Data\\RestaurantDbcontext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T15:44:02.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "E:\\AccentureTraining\\FoodFleet2.0\\RestaurantService\\Models\\MenuItem.cs",
+              "RelativeDocumentMoniker": "RestaurantService\\Models\\MenuItem.cs",
+              "ToolTip": "E:\\AccentureTraining\\FoodFleet2.0\\RestaurantService\\Models\\MenuItem.cs",
+              "RelativeToolTip": "RestaurantService\\Models\\MenuItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T15:34:16.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Restaurant.cs",
+              "DocumentMoniker": "E:\\AccentureTraining\\FoodFleet2.0\\RestaurantService\\Models\\Restaurant.cs",
+              "RelativeDocumentMoniker": "RestaurantService\\Models\\Restaurant.cs",
+              "ToolTip": "E:\\AccentureTraining\\FoodFleet2.0\\RestaurantService\\Models\\Restaurant.cs",
+              "RelativeToolTip": "RestaurantService\\Models\\Restaurant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T15:31:10.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "E:\\AccentureTraining\\FoodFleet2.0\\UserService.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UserService.Tests\\UnitTest1.cs",
+              "ToolTip": "E:\\AccentureTraining\\FoodFleet2.0\\UserService.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "UserService.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T15:18:13.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\AccentureTraining\\FoodFleet2.0\\UserService\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "UserService\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\AccentureTraining\\FoodFleet2.0\\UserService\\Controllers\\UserController.cs",
+              "RelativeToolTip": "UserService\\Controllers\\UserController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAuwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T08:07:13.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20260821080441_InitialCreate.cs",
+              "DocumentMoniker": "E:\\AccentureTraining\\FoodFleet2.0\\UserService\\Migrations\\20260821080441_InitialCreate.cs",
+              "RelativeDocumentMoniker": "UserService\\Migrations\\20260821080441_InitialCreate.cs",
+              "ToolTip": "E:\\AccentureTraining\\FoodFleet2.0\\UserService\\Migrations\\20260821080441_InitialCreate.cs",
+              "RelativeToolTip": "UserService\\Migrations\\20260821080441_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T08:04:42.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\AccentureTraining\\FoodFleet2.0\\UserService\\appsettings.json",
+              "RelativeDocumentMoniker": "UserService\\appsettings.json",
+              "ToolTip": "E:\\AccentureTraining\\FoodFleet2.0\\UserService\\appsettings.json",
+              "RelativeToolTip": "UserService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAACIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-21T07:49:58.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserDbContext.cs",
+              "DocumentMoniker": "E:\\AccentureTraining\\FoodFleet2.0\\UserService\\Data\\UserDbContext.cs",
+              "RelativeDocumentMoniker": "UserService\\Data\\UserDbContext.cs",
+              "ToolTip": "E:\\AccentureTraining\\FoodFleet2.0\\UserService\\Data\\UserDbContext.cs",
+              "RelativeToolTip": "UserService\\Data\\UserDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T22:23:05.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\AccentureTraining\\FoodFleet2.0\\UserService\\Program.cs",
+              "RelativeDocumentMoniker": "UserService\\Program.cs",
+              "ToolTip": "E:\\AccentureTraining\\FoodFleet2.0\\UserService\\Program.cs",
+              "RelativeToolTip": "UserService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T22:07:55.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UserService.csproj",
+              "DocumentMoniker": "E:\\AccentureTraining\\FoodFleet2.0\\UserService\\UserService.csproj",
+              "RelativeDocumentMoniker": "UserService\\UserService.csproj",
+              "ToolTip": "E:\\AccentureTraining\\FoodFleet2.0\\UserService\\UserService.csproj",
+              "RelativeToolTip": "UserService\\UserService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-20T22:05:08.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "OrderService",
+              "DocumentMoniker": "E:\\AccentureTraining\\FoodFleet2.0\\OrderService\\OrderService.csproj",
+              "RelativeDocumentMoniker": "OrderService\\OrderService.csproj",
+              "ToolTip": "E:\\AccentureTraining\\FoodFleet2.0\\OrderService\\OrderService.csproj",
+              "RelativeToolTip": "OrderService\\OrderService.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-20T21:25:52.307Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
